@@ -1,6 +1,7 @@
 import unittest
 from my_awesome_lib.math_tools import add, subtract, factorial
 
+"Testy dla modułu math_tools"
 
 class TestMathTools(unittest.TestCase):
 

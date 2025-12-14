@@ -1,6 +1,7 @@
 import unittest
 from my_awesome_lib.data_utils import average, max_value
 
+"Testy dla moduły data_utilis"
 
 class TestDataUtils(unittest.TestCase):
 

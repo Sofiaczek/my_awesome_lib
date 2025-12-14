@@ -1,6 +1,7 @@
 import unittest
 from my_awesome_lib.text_processing import reverse_text, count_words, is_palindrome
 
+"Testy dla modułu text_procesing"
 
 class TestTextProcessing(unittest.TestCase):
 
