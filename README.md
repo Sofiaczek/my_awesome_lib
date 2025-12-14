@@ -20,3 +20,4 @@ Skopiuj repozytorium lub użyj lokalnie:
 ```bash
 pip install -e .
 
+<!-- test update -->
