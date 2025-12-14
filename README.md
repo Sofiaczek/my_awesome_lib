@@ -1,6 +1,6 @@
 Autor:
 
-Justyna Cupryjak-Zagórska
+Justyna C
 
 Wersja:
 
